@@ -1,0 +1,74 @@
+body{
+	padding-top: 35px;
+	background-color: #FFFFFF;
+
+}
+
+
+.hero-unit{
+
+	background: url(../img/key.jpg) top center;
+	height: 530px;
+	background-repeat: no-repeat;
+	background-size: cover;
+    border-radius: 0;
+    -web-border-radius: 0;
+    -moz-border-radius: 0;
+
+    
+
+}
+
+.circular-image {
+  border-radius:  50%;
+  
+}
+
+.modal-img{
+	width:  940px;
+	margin-left: -480px;
+
+	
+	
+
+
+}
+.modal-img .modal-body{
+	max-height: 400;
+
+	  
+	 
+
+
+}
+.thumbnail{
+border:none;
+
+}
+
+.jumbotron {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #F3FFDE;
+
+}
+
+
+.jumbotron1 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #F3FFDE;
+
+}
+
+
+
+footer{
+	padding-bottom: 10px;
+	margin-top: 100px;
+	background-color: #FFFFFF;
+}
